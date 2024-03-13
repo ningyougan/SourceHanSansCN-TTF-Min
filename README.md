@@ -91,3 +91,6 @@ pyftsubset 1.otf --text-file=1.txt --output-file=2.otf
 π`－=qwertyuiop[]、asdfghjkl； ‘zxcvbnm，。/！·#￥%……—*…（）～…——+—{—}—|—：“《》？〈〉@&
 。，、＇：∶；?‘’“”〝〞ˆˇ﹕︰﹔﹖﹑·¨….¸;！´？！～—ˉ｜‖＂〃｀@﹫¡¿﹏﹋﹌︴々﹟#﹩$﹠&﹪%*﹡﹢﹦﹤‐￣¯―﹨ˆ˜﹍﹎+=<＿_-\ˇ~﹉﹊（）〈〉‹›﹛﹜『』〖〗［］《》〔〕{}「」【】〔〕
 ```
+
+## 字体格式转换
+`https://www.aconvert.com/cn/image/ttf-to-woff2/`
